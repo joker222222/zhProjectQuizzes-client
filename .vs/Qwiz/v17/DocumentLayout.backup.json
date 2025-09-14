@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahigato\\source\\repos\\Qwiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B71345F8-73B2-442C-8001-504E666F3483}|Qwiz\\Qwiz.csproj|c:\\users\\ahigato\\source\\repos\\qwiz\\qwiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71345F8-73B2-442C-8001-504E666F3483}|Qwiz\\Qwiz.csproj|solutionrelative:qwiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71345F8-73B2-442C-8001-504E666F3483}|Qwiz\\Qwiz.csproj|c:\\users\\ahigato\\source\\repos\\qwiz\\qwiz\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71345F8-73B2-442C-8001-504E666F3483}|Qwiz\\Qwiz.csproj|solutionrelative:qwiz\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ahigato\\source\\repos\\Qwiz\\Qwiz\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Qwiz\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ahigato\\source\\repos\\Qwiz\\Qwiz\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Qwiz\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:08:03.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahigato\\source\\repos\\Qwiz\\Qwiz\\Program.cs",
+              "RelativeDocumentMoniker": "Qwiz\\Program.cs",
+              "ToolTip": "C:\\Users\\ahigato\\source\\repos\\Qwiz\\Qwiz\\Program.cs",
+              "RelativeToolTip": "Qwiz\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:01:30.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

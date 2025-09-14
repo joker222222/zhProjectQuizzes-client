@@ -1,0 +1,6 @@
+@Qwiz_HostAddress = http://localhost:5277
+
+GET {{Qwiz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
